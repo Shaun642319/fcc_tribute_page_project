@@ -1,0 +1,55 @@
+.center{
+  text-align: center;
+}
+.container{
+  color: #0a0a23;
+  font-family: sans-serif;
+  background-color: #b4bddb;
+  margin: 45px 0;
+  padding-top: 25px;
+  border-radius: 5px;
+}
+h1{
+  font-weight: bold;
+  font-size: 45px;
+}
+#img-div{
+  background-color: #fff;
+  margin: auto 10px;
+}
+img{
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+figcaption{
+  padding-bottom: 15px;
+}
+.list{
+  padding: 15px 400px; 
+}
+li{
+  margin-bottom: 20px;
+}
+#quote{
+  font-style: italic;
+  text-align: left;
+  padding-top: 35px;
+}
+#quote, #authorq{
+  padding-left: 25px;
+}
+footer{
+  font-weight: bold;
+  font-size: 22px;
+  padding-bottom: 20px;
+}
+span{
+  font-weight: bold;
+}
+#tribute-info{
+  font-weight: bold;
+  font-size: 18px;
+  padding-top: 23px;
+}
